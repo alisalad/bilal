@@ -3,12 +3,12 @@ layout: home
 
 # Hero section
 hero:
-  name: Adocs
-  text: Static docs template built with VitePress.
+  name: Dastuurka
+  
   image:
-    src: /logo-big.svg
+    src: /somalia.png
     alt: Adocs logo
-  tagline: A free to use template for creating docs for your projects
+  tagline: Jamhuuriyadda Federaalka ee Soomaaliya
   actions:
     - theme: brand
       text: Get Started
