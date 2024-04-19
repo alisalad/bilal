@@ -2,6 +2,7 @@
 layout: home
 
 features:
+
   - icon: ⚡️
     title: Cutubka koowaad
     details: Baaqa Jamhuuriyadda Federaalka Soomaaliya
@@ -19,6 +20,24 @@ features:
   - icon: 🎉
     title: Cutubka Shanaad
     details: Baahsanaanta Awoodda Xukuumadaha Ee Jamhuuriyadda Federaalka Ee Soomaaliya
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
   - icon: 🔥
     title: Cutubka Lixaad
     details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
