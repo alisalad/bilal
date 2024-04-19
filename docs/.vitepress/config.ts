@@ -1,5 +1,5 @@
 export default {
-  title: "Adocs",
+  title: "Dastuurka",
   description: "An awesome docs template built by me",
   lang: 'en-US',
   cleanUrls: true,
@@ -7,7 +7,7 @@ export default {
   ignoreDeadLinks: true,
   
   themeConfig: {
-    logo: "/flg.svg",
+    logo: "/somalia.svg",
     siteTitle: "Dastuurka",
     search: {
       provider: "local",

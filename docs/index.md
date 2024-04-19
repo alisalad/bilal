@@ -14,7 +14,7 @@ hero:
       text: Dastuurka KMG
       link: /guide
     - theme: alt
-      text: Provisional Constitution
+      text: Constitution
       link: https://github.com/Evavic44/adocs
       
 
@@ -53,7 +53,7 @@ head:
   - - link
     - rel: icon
       type: image/svg
-      href: logo.svg
+      href: somalia.svg
 ---
 
 <!-- Custom home layout -->
