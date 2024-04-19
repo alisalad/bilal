@@ -5,22 +5,30 @@ features:
   - icon: ⚡️
     title: Cutubka koowaad
     details: Baaqa Jamhuuriyadda Federaalka Soomaaliya
-    link: /index.md
+    link: /cutubka1.md
   - icon: 🎉
     title: Cutubka Labaad
     details: Xuquuqda Asaasiga ah iyo Waajibaadka Muwaaddinka
-    link: /cutubka1.md
+    link: /cutubka2.md
   - icon: 🔥
-    title: Simple and minimal, always
-    details: Lorem ipsum...
+    title: Cutubka Saddexaad
+    details: Dhulka, Hantida iyo Deegaanka
   - icon: ⚡️
-    title: Adocs, The DX that can't be beat
-    details: Lorem ipsum...
+    title: Cutubka Afraad - Matilaada Shacabka
+    details: Madaxa Koowaad - Mabaadi’da Guud ee Matilaadda Shacabka
   - icon: 🎉
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
+    title: Cutubka Shanaad
+    details: Baahsanaanta Awoodda Xukuumadaha Ee Jamhuuriyadda Federaalka Ee Soomaaliya
   - icon: 🔥
-    title: Simple and minimal, always
-    details: Lorem ipsum...
-
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+  - icon: 🔥
+    title: Cutubka Lixaad
+    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
 ---

@@ -15,7 +15,7 @@ hero:
       link: /xeer-hoosaadka
     - theme: alt
       text: Constitution
-      link: https://github.com/Evavic44/adocs
+      link: /xeer-hoosaadka.md
       
 
 # Features section
