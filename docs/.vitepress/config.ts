@@ -7,8 +7,8 @@ export default {
   ignoreDeadLinks: true,
   
   themeConfig: {
-    logo: "/logo.svg",
-    siteTitle: "Adocs",
+    logo: "/flg.svg",
+    siteTitle: "Dastuurka",
     search: {
       provider: "local",
     },

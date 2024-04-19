@@ -6,16 +6,17 @@ hero:
   name: Dastuurka
   
   image:
-    src: /somalia.png
+    src: /somalia.svg
     alt: Adocs logo
   tagline: Jamhuuriyadda Federaalka ee Soomaaliya
   actions:
     - theme: brand
-      text: Get Started
+      text: Dastuurka KMG
       link: /guide
     - theme: alt
-      text: View on GitHub
+      text: Provisional Constitution
       link: https://github.com/Evavic44/adocs
+      
 
 # Features section
 features:
@@ -28,10 +29,7 @@ features:
   - icon: 🔥
     title: Simple and minimal, always
     details: Lorem ipsum...
-  - icon: 🎀
-    title: Stylish and cool
-    details: Lorem ipsum...
-
+  
 # Meta property
 head:
   - - meta
