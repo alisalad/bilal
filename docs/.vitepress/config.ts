@@ -46,8 +46,7 @@ export default {
         text: "Cutubka Koowaad",
         collapsible: true,
         items: [
-          { text: "Introduction", link: "/introduction" },
-          { text: "Getting Started", link: "/getting-started" },
+          
           { text: "Xeer Hoosaadka", link: "/xeer-hoosaadka" },
           
         ],

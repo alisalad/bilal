@@ -7,8 +7,9 @@ features:
     details: Baaqa Jamhuuriyadda Federaalka Soomaaliya
     link: /index.md
   - icon: 🎉
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
+    title: Cutubka Labaad
+    details: Xuquuqda Asaasiga ah iyo Waajibaadka Muwaaddinka
+    link: /cutubka1.md
   - icon: 🔥
     title: Simple and minimal, always
     details: Lorem ipsum...

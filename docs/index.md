@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Dastuurka KMG
-      link: /guide
+      link: /xeer-hoosaadka
     - theme: alt
       text: Constitution
       link: https://github.com/Evavic44/adocs
