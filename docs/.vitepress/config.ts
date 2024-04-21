@@ -5,6 +5,8 @@ export default {
   cleanUrls: true,
   // If this is disabled, when building it it will give deadlink errors if your markdown has the wrong links
   ignoreDeadLinks: true,
+
+  lastUpdated: true,
   
   themeConfig: {
     logo: "/somalia.svg",
@@ -12,21 +14,16 @@ export default {
     search: {
       provider: "local",
     },
+
+    
     // Navbar Link
     nav: [
       { text: "About", link: "/about" },
       { text: "Contact", link: "/contact" },
       { text: "Guide", link: "/guide" },
       { text: "Configs", link: "/configs" },
-      {
-        // Dropdown Menu
-        text: "Changelog",
-        items: [
-          { text: "v0.0.1", link: "/item-1" },
-          { text: "v0.0.2", link: "/item-2" },
-          { text: "v0.0.3", link: "/item-3" },
-        ],
-      },
+      
+     
     ],
     // Social Icons
     socialLinks: [

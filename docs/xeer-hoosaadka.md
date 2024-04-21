@@ -1,5 +1,8 @@
 ---
 layout: home
+hero:
+  name: Dastuurka
+  tagline: Jamhuuriyadda Federaalka ee Soomaaliya
 
 features:
 
