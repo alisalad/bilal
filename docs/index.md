@@ -30,6 +30,7 @@ features:
   - icon: 🔥
     title: Simple and minimal, always
     details: Lorem ipsum...
+
   
 # Meta property
 head:
