@@ -72,7 +72,7 @@ export default {
     },
     
     footer: {
-      message: "Released under the MIT License.",
+      message: "",
       copyright: "Copyright © 2024-present Adocs",
     },
     markdown: {

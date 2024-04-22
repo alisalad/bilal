@@ -27,30 +27,30 @@ features:
     title: Cutubka Lixaad
     details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka Todobaad
+    details: Madaxweynaha Jamhuuriyadda Federaalka Ee Soomaaliya
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka Siddeedaad
+    details: Laanta Fulinta
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka Sagaalaad
+    details: Awoodda Garsoorka
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka Tobnaad
+    details: Guddiyada Madaxa Bannaan
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka Kow iyo Tobnaad
+    details: Shaqaalaha Rayidka ee Dawladda
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka Laba iyo Tobnaad
+    details: Dawladaha Xubinta ka ah Dawlada Federaalka
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka Saddex iyo Tobnaad
+    details: Maaliyadda guud
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka Affar iyo Tobnaad
+    details: Nabadda iyo Amniga
   - icon: 🔥
-    title: Cutubka Lixaad
-    details: Madaxa Koowaad - Qodobbo Guud ee Baarlamaanka Federaalka
+    title: Cutubka 15aad
+    details: Qodobbada Kama Dambeysta ah iyo kuwa kumeel gaarka ah
 ---
