@@ -1,4 +1,4 @@
-# Cutubka koowaad: <br/> Baaqa Jamhuuriyadda Federaalka Soomaaliya
+# Cutubka koowaad <br/>Baaqa Jamhuuriyadda Federaalka Soomaaliya
 
 ## Qodobka 1aad
 

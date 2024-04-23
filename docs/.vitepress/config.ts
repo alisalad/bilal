@@ -23,12 +23,13 @@ export default {
       { text: "Guide", link: "/guide" },
       { text: "Configs", link: "/configs" },
       
+      
      
     ],
     // Social Icons
     socialLinks: [
       { icon: "github", link: "https://github.com/Evavic44/adocs" },
-      { icon: "twitter", link: "https://twitter.com/victorekea" },
+      { icon: "twitter", link: "https://twitter.com/alibashi5" },
       { icon: "discord", link: "..." },
       {
         icon: {
@@ -73,7 +74,7 @@ export default {
     
     footer: {
       message: "",
-      copyright: "Copyright © 2024-present Adocs",
+      copyright: "Copyright © 2024 | Developed Ali Bashi| @alibashi5",
     },
     markdown: {
       theme: "material-palenight",

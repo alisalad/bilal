@@ -32,7 +32,7 @@ var config_default = {
     // Social Icons
     socialLinks: [
       { icon: "github", link: "https://github.com/Evavic44/adocs" },
-      { icon: "twitter", link: "https://twitter.com/victorekea" },
+      { icon: "twitter", link: "https://twitter.com/alibashi5" },
       { icon: "discord", link: "..." },
       {
         icon: {
