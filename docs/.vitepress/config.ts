@@ -18,10 +18,12 @@ export default {
     
     // Navbar Link
     nav: [
-      { text: "About", link: "/about" },
-      { text: "Contact", link: "/contact" },
-      { text: "Guide", link: "/guide" },
-      { text: "Configs", link: "/configs" },
+      { text: "Home", link: "/#" },
+      { text: "Dastuurka", link: "/about" },
+      { text: "English", link: "/contact" },
+      { text: "Guide Book", link: "/guide" },
+      { text: "Contact", link: "/configs" },
+      
       
       
      
@@ -74,7 +76,8 @@ export default {
     
     footer: {
       message: "",
-      copyright: "Copyright © 2024 | Developed Ali Bashi| @alibashi5",
+      copyright: "© 2024 - Developed Ali Bashi - @alibashi5",
+      
     },
     markdown: {
       theme: "material-palenight",
