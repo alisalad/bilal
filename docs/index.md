@@ -30,25 +30,9 @@ features:
   - icon: 🔥
     title: Simple and minimal, always
     details: Lorem ipsum...  
-  - icon: 🌟
+  - icon: ☪️
     title: Adocs, The DX that can't be beat
     details: Lorem ipsum...
-  - icon:  📂
-    title: Waa tijaabo, fiiri maxaa soo baxay
-    details: Book furan emoji
-  - icon:  📂
-    title: Waa tijaabo, fiiri maxaa soo baxay
-    details: Book furan emoji
-  - icon:  📂
-    title: Waa tijaabo, fiiri maxaa soo baxay
-    details: Book furan emoji
-  - icon:  📂
-    title: Waa tijaabo, fiiri maxaa soo baxay
-    details: Book furan emoji
-  
-  
-    
-
   
 # Meta property
 head:
