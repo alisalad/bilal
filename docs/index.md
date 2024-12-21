@@ -7,12 +7,12 @@ hero:
   text: 
   image:
     src: /somalia.svg
-    alt: Dastuurka Logo
+    alt: Dastuurka Logo 
   tagline: Jamhuuriyadda Federaalka ee Soomaaliya
   actions:
     - theme: brand
       text: Dastuurka KMG
-      link: /xeer-hoosaadka
+      link: /dastuurka
     - theme: alt
       text: Constitution
       link: /xeer-hoosaadka.md
@@ -29,7 +29,22 @@ features:
     details: Lorem ipsum...
   - icon: 🔥
     title: Simple and minimal, always
+    details: Lorem ipsum...  
+  - icon: 🌟
+    title: Adocs, The DX that can't be beat
     details: Lorem ipsum...
+  - icon:  📂
+    title: Waa tijaabo, fiiri maxaa soo baxay
+    details: Book furan emoji
+  - icon:  📂
+    title: Waa tijaabo, fiiri maxaa soo baxay
+    details: Book furan emoji
+  - icon:  📂
+    title: Waa tijaabo, fiiri maxaa soo baxay
+    details: Book furan emoji
+  - icon:  📂
+    title: Waa tijaabo, fiiri maxaa soo baxay
+    details: Book furan emoji
   
   
     

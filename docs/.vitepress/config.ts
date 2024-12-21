@@ -30,7 +30,7 @@ export default {
     ],
     // Social Icons
     socialLinks: [
-      { icon: "github", link: "https://github.com/Evavic44/adocs" },
+      
       { icon: "twitter", link: "https://twitter.com/alibashi5" },
       { icon: "discord", link: "..." },
       {
@@ -47,7 +47,9 @@ export default {
         collapsible: true,
         items: [
           
-          { text: "Xeer Hoosaadka", link: "/xeer-hoosaadka" },
+          { text: "Qodobka 1aad", link: "/xeer-hoosaadka" },
+          { text: "Qodobka 2aad", link: "/xeer-hoosaadka" },
+          { text: "Qodobka 3aad", link: "/xeer-hoosaadka" },
           
         ],
       },
