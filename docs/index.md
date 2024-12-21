@@ -21,18 +21,16 @@ hero:
 # Features section
 features:
   
-  - icon: ⚡️
-    title: Adocs, The DX that can't be beat
-    details: Lorem ipsum...
-  - icon: 🎉
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
+  - icon: 📆
+    title: Fiiro Gaar ah
+    details: La Ansixiyey August 1, 2012 Muqdishu, Soomaaliya
+  - icon: 📂
+    title: Ka kooban
+    details: 15 cutub iyo 143 qodob.
   - icon: 🔥
     title: Simple and minimal, always
     details: Lorem ipsum...  
-  - icon: ☪️
-    title: Adocs, The DX that can't be beat
-    details: Lorem ipsum...
+  
   
 # Meta property
 head:
